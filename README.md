@@ -17,8 +17,6 @@ Data Generator (Python) --> Kafka (Producer) --> Apache Flink --> Kafka (Consume
 
 ## Prerequisites
 
-Before running the project, ensure you have the following installed:
-
 - Java 8 or above
 - Apache Kafka
 - Apache Flink
